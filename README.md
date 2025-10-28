@@ -1,4 +1,4 @@
-#Actividad Formativa 1 - Semana 1
+# Actividad Formativa 1 - Semana 1
 
 Creación de una clase básica en Java
 
